@@ -1,0 +1,7 @@
+streamlit
+swisseph
+geopy
+timezonefinder
+pytz
+openai
+requests
