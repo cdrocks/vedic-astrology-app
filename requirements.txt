@@ -4,4 +4,3 @@ geopy
 timezonefinder
 pytz
 openai
-requests
